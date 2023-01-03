@@ -32,6 +32,7 @@ module Trino::Client
   require 'trino/client/model_versions/303.rb'
   require 'trino/client/model_versions/316.rb'
   require 'trino/client/model_versions/351.rb'
+  require 'trino/client/model_versions/394.rb'
 
   Models = ModelVersions::V351
 
